@@ -7,7 +7,7 @@ import styles from "../styles/Home.module.css";
 
 import { abi as NFT_CONTRACT_ABI } from "../constants/CryptoDevs.json";
 import { abi as TOKEN_CONTRACT_ABI } from "../constants/CryptoDevToken.json";
-import { ToastContainer, toast } from "react-toastify";
+import {toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 import { Triangle } from "react-loader-spinner";
